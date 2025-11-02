@@ -2,8 +2,7 @@
 
 ## 🔰本仓库订阅地址
 
-https://ghfast.top/https://raw.githubusercontent.com/qinvision/hpy/refs/heads/main/hpy.json
-
+https://raw.githubusercontent.com/qinvision/18-/refs/heads/main/hpyys.json
 ## ⚙️GitHub加速站 
 - https://gh-proxy.com/
 - https://mirror.ghproxy.com/
